@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Calculator App Ced twiceg</title>
+<title>Calculator App Ced twicddeg</title>
 </head>
 <body bgcolor="Aqua">
 
